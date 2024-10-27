@@ -1,10 +1,11 @@
-import React from "react";
-import Counter from "../../component/Counter/counter";
+
+
+import Counter from "../../component/Counter/Counter";
 
 const Homepage = () => {
   return (
     <div>
-      <Counter />
+      <Counter></Counter>
     </div>
   );
 };
